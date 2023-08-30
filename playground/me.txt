@@ -1,5 +1,0 @@
-{{#user}}
-Name: Karan Rajesh Nair
-Skills: Python, Deep Learning, Machine Learning, openCV, NLP, MLOPS, DSA
-Email: karanrajesh0505@gmail.com
-{{/user}}
